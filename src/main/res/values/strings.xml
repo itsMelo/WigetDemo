@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">WigetDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- AppBarLayout string -->
+    <string name="author_name">Melo</string>
+    <string name="action_about">About</string>
+    <string name="action_share">Share</string>
+    <string name="action_like">Like</string>
+    <string name="action_collect">Collect</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+
+</resources>
